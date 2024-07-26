@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 
-class MantendorController extends Controller
+class ADD extends Controller
 {
     //
 }
